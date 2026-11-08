@@ -12,4 +12,4 @@ I'm not a developer, but I love using AI to bring fun ideas to life.
 
 ## 📫 Contact
 - oon4am@icloud.com
-- linkedin.com/in/yunharam
+- [LinkedIn](https://linkedin.com/in/yunharam)
