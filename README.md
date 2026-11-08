@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Ram
 
-<!--
-**oon4am-eng/oon4am-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm not a developer, but I love using AI to bring fun ideas to life.
 
-Here are some ideas to get you started:
+## 🛠 What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[HOLD!](https://whohold.com)** : See who's buying and selling Korean stocks, made easy
+- Tracks the National Pension Service, institutions, and insiders across 4,011 listed Korean companies
+- Collects major shareholding (5%+) and insider disclosures every day
+- Look up any holder's portfolio and average purchase price
+- Connect it to your AI assistant and ask in plain language (MCP)
+
+## 📫 Contact
+- oon4am@icloud.com
+- linkedin.com/in/yunharam
